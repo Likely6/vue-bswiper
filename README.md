@@ -6,7 +6,6 @@
 
 	npm i vue-bswiper --save
 
-<br/>
 >props
 
 | 参数 | 说明 | 类型 | 默认值 |
@@ -17,7 +16,6 @@
 | interval | 自动切换图片的时间间隔 | Number | 2000 |
 | showDot | 是否显示分页器 | Boolean | true |
 
-<br/>
 >例子
 >html应该按照下面例子的结构,其中a标签可以替换成其他标签
 
