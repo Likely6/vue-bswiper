@@ -1,0 +1,27 @@
+{
+  "name": "vue-bswiper",
+  "version": "1.0.0",
+  "description": "基于better-scroll的简单轮播组件",
+  "main": "slider.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "better-scroll": "^1.8.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Likely6/vue-bswiper.git"
+  },
+  "keywords": [
+    "vue",
+    "swiper",
+    "better-scroll"
+  ],
+  "author": "Likely6",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Likely6/vue-bswiper/issues"
+  },
+  "homepage": "https://github.com/Likely6/vue-bswiper#readme"
+}
